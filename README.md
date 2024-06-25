@@ -28,7 +28,7 @@ I have a strong passion for tackling challenges that require creativity and inno
 
 - 🎓 Pursuing CSE at IUBAT - International University of Business Agriculture and Technology
 - 💻 Passionate about backend development, with a special love for Node.js
-- 🚀 Currently expanding my skills with Next.js and NestJS
+- 🚀 Currently expanding my skills with Nextjs
 - 🌟 Eager to contribute to open-source projects and collaborate with fellow developers
 - 💬 Always excited to discuss the latest in tech, especially backend technologies
 - 🔍 Seeking opportunities to apply my skills in real-world backend projects
