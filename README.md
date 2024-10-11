@@ -2,12 +2,12 @@
 
 ![Cover Image](./cover-image.png)
 
-## Future Software Engineer 
+## Future Software Engineer
 
-I have a strong passion for tackling challenges that require creativity and innovative thinking love to work in backend. 
-
+I have a strong passion for tackling challenges that require creativity and innovative thinking love to work in backend.
 
 ### Technologies I know:
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -17,6 +17,7 @@ I have a strong passion for tackling challenges that require creativity and inno
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Programming Languages:
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -51,6 +52,7 @@ I have a strong passion for tackling challenges that require creativity and inno
 ![Issues](https://img.shields.io/github/issues/jumael99/jumael99?label=Issues&color=red)
 
 ![Repositories Contributed To](https://img.shields.io/github/contributors-anon/jumael99/jumael99?label=Repositories%20Contributed%20To&color=orange)
+
 </details>
 
 ### Top Languages
@@ -58,5 +60,3 @@ I have a strong passion for tackling challenges that require creativity and inno
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jumael99&layout=compact&theme=radical)
 
 ### Top Languages
-
-
