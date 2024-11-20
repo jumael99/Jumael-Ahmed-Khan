@@ -2,7 +2,7 @@
 
 ![Cover Image](./cover-image.png)
 
-## Future Software Engineer
+## Software Engineer
 
 I have a strong passion for tackling challenges that require creativity and innovative thinking love to work in backend.
 
